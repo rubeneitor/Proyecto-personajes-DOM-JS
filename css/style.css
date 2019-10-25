@@ -1,0 +1,50 @@
+body{
+    display: flex;
+    
+
+   
+}
+
+.input {
+    margin-top: 10px;
+    margin-left: 490px;
+}
+
+
+.mediaPantalla {
+    height: 100vh;
+    width: 50%;
+    background-color: deepskyblue;
+    align-content: center;
+}
+
+.otraMediaPantalla {
+    position: relative;
+    height: 100vh;
+    width: 50%;
+    background-color: gold;
+}
+
+
+.pok1 {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+}
+
+.pok1-2 {
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+
+
+.pok2 {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    margin-top: 70px;
+
+} 

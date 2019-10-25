@@ -1,0 +1,73 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+body div{
+    display: flex;
+    
+
+   
+}
+
+.contPrincipal {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    margin-top: 5px;
+}
+
+.input {
+
+    width: 25%;
+    height: 25%;
+}
+
+.container .mediaPantalla {
+    height: 100vh;
+    width: 50%;
+    background-color: deepskyblue;
+    align-content: center;
+}
+
+
+.container {
+    height: 100vh;
+    width: 100vw;
+}
+
+
+.container .otraMediaPantalla {
+    
+    height: 100vh;
+    width: 50%;
+    background-color: gold;
+}
+
+
+.pok1 {
+
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+}
+
+.pok1-2 {
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+
+
+.pok2 {
+
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    margin-top: 70px;
+
+} 
